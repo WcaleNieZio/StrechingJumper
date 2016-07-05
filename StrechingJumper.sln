@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{F949A8F4-7FA1-FA91-0115-46939EA89BF8}") = "StrechingJumper", "Assembly-CSharp-firstpass.csproj", "{D42F77BD-1741-6ACE-12B0-2F0F877E2C80}"
+EndProject
+Project("{F949A8F4-7FA1-FA91-0115-46939EA89BF8}") = "StrechingJumper", "Assembly-CSharp.csproj", "{2AE15D35-C3FC-1831-CC57-CCBAB19AAC58}"
+EndProject
+Project("{F949A8F4-7FA1-FA91-0115-46939EA89BF8}") = "StrechingJumper", "Assembly-CSharp-Editor.csproj", "{70E6AEF1-9778-544B-B44B-B799BD81583D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D42F77BD-1741-6ACE-12B0-2F0F877E2C80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D42F77BD-1741-6ACE-12B0-2F0F877E2C80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D42F77BD-1741-6ACE-12B0-2F0F877E2C80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D42F77BD-1741-6ACE-12B0-2F0F877E2C80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AE15D35-C3FC-1831-CC57-CCBAB19AAC58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AE15D35-C3FC-1831-CC57-CCBAB19AAC58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AE15D35-C3FC-1831-CC57-CCBAB19AAC58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AE15D35-C3FC-1831-CC57-CCBAB19AAC58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70E6AEF1-9778-544B-B44B-B799BD81583D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70E6AEF1-9778-544B-B44B-B799BD81583D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70E6AEF1-9778-544B-B44B-B799BD81583D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70E6AEF1-9778-544B-B44B-B799BD81583D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
